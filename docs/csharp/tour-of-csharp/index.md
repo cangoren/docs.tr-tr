@@ -34,7 +34,7 @@ C# programları ve kitaplıklarını zamanla uyumlu bir biçimde gelişmesi emin
 
 [!code-csharp[Hello World](../../../samples/snippets/csharp/tour/hello/Program.cs#L1-L8)]
 
-C# kaynak dosyaları genellikle dosya uzantısına sahip `.cs`. "Hello, World" program dosyasında depolanan varsayılarak `hello.cs`, programın komut satırı kullanılarak derlenmiş:
+C# kaynak dosyaları genellikle `.cs` dosya uzantısına sahiptir. "Hello, World" program dosyasında depolanan varsayılarak `hello.cs`, programın komut satırı kullanılarak derlenmiş:
 
 ```console
 csc hello.cs
